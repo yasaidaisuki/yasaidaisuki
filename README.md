@@ -6,10 +6,10 @@ I'm a Computational Math student at the **University of Waterloo** ('27) and cur
 
 ## What I work on
 
-- **Backend & distributed systems** — TypeScript/Node services, job queues (BullMQ), Redis, Postgres
-- **Infra** — Kubernetes, Terraform, AWS; I like deleting cloud costs
-- **Systems & compilers** — C++ is my comfort language; check out my [C compiler](https://github.com/yasaidaisuki/c_compiler) (Flex/Bison → LLVM IR)
-- **Optimization** — research on accelerated gradient descent methods in PyTorch
+- **Backend & distributed systems**: TypeScript/Node services, job queues (BullMQ), Redis, Postgres
+- **Infra**: Kubernetes, Terraform, AWS; I like deleting cloud costs
+- **Systems & compilers**: C++ is my comfort language; check out my [C compiler](https://github.com/yasaidaisuki/c_compiler) (Flex/Bison → LLVM IR)
+- **Optimization**: research on accelerated gradient descent methods in PyTorch
 
 ## Outside of code
 
