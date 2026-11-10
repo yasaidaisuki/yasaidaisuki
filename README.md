@@ -17,4 +17,4 @@ Badminton (I suck, but I don't suck *that* much), sleeping, and [Combinatorics &
 
 ## Find me
 
-🌐 [yasaidaisuki.github.io](https://yasaidaisuki.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/dami-peng/) · 📫 peng.dingkai@gmail.com
+🌐 [damipeng.com](damipeng.com) · 💼 [LinkedIn](https://www.linkedin.com/in/dami-peng/) · 📫 peng.dingkai@gmail.com
